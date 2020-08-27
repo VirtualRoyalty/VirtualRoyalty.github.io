@@ -29,4 +29,4 @@ layout: default
 
 
 **My contacts:**<br>
-**[VK](https://vk.com/vadik_alp)** **[TG](https://t.me/vadik_alp)**
+**[VK](https://vk.com/vadik_alp)** **[TG](https://t.me/vadik_alp)** **[INST](https://www.instagram.com/ne_vadik/)**
