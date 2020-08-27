@@ -5,7 +5,7 @@ import pandas as pd
 
 df = pd.read_excel('standup.xlsx')
 print(type(df))
-fig = px.scatter(df, x="Классика", y="Перформанс", color="Комик", size="size")
+fig = px.scatter(df, x="Классика", y="Перформанс", color="Комик", size="ИМХО")
 fig.show()
 pio.write_html(fig, file='_includes/figure.html', auto_open=True)
 
