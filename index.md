@@ -13,6 +13,6 @@ layout: default
 >
 
 
-
+{% include figure.html %}
 **Contacts:**
 [my VK](https://vk.com/vadik_alp)
