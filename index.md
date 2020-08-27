@@ -13,11 +13,11 @@ layout: default
 {% include figure.html %}
 | Комик        | Стендап         | Год и Ссылка |
 :------------- | --------------- | -------------|
-| Bo Burnham   | Words, Words, Words |    [2010]() |
+| Bo Burnham   | Words, Words, Words |    [2010](https://yadi.sk/i/Bax7ktZHIG-LZA) |
 |Bo Burnham    | What.        |         [2013](https://www.youtube.com/watch?v=7lbSEG1etfc)   |
 | Bo Burnham   | Make Happy       |        [2015](https://vk.com/im?sel=66628440&z=video-53358766_456239114%2F06fcdbe6302c6de0b7) |
 
 
 
 **Contacts:**<br>
-[VK](https://vk.com/vadik_alp) [TG](https://t.me/vadik_alp)
+**[VK](https://vk.com/vadik_alp)** **[TG](https://t.me/vadik_alp)**
