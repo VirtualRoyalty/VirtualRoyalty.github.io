@@ -6,4 +6,4 @@ values = [4500, 2500, 1053, 500]
 fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
 fig.show()
 
-pio.write_html(fig, file='figure.html', auto_open=True)
+pio.write_html(fig, file='_includes/figure.html', auto_open=True)
