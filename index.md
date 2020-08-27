@@ -12,6 +12,8 @@ layout: default
 ## Диаграмма стендап комиков
 
 {% include figure.html %}
+
+
 | Комик        | Стендап         | Год и Ссылка |
 |------------- | --------------- | -------------|
 | Bo Burnham   | Words, Words, Words |    [2010](https://yadi.sk/i/Bax7ktZHIG-LZA) |
