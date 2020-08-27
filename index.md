@@ -12,6 +12,7 @@ layout: default
 ## Диаграмма стендап комиков
 
 {% include figure.html %}
+{% include table.html %}
 
 
 | Комик        | Стендап         | Год и Ссылка |
